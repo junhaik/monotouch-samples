@@ -7,7 +7,7 @@ namespace AirLocate
 
   public static class Defaults
   {
-
+    // this test comments. 
     static NSUuid[] supportedProximityUuids;
     static NSNumber defaultPower;
 
